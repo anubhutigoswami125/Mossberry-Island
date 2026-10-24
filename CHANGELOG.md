@@ -1,7 +1,9 @@
 # Changelog
 
 ## Unreleased
-- Established TypeScript, Phaser, and Vite project.
-- Added North Meadow prototype with movement, collectibles, Rowan dialogue, game clock, and local saves.
-- Added deterministic inventory and clock tests plus project documentation.
-- Added GitHub Pages build workflow.
+- Established a TypeScript, Phaser, and Vite project in the dedicated repository.
+- Added a playable North Meadow prototype with keyboard movement, collectible objects, Rowan dialogue, an in-game clock, and versioned local saves.
+- Added inventory and clock unit tests.
+- Added design, world, architecture, content, asset, testing, and roadmap documentation.
+- Added GitHub Actions build/test/Pages deployment workflow.
+- Initial art is original code-drawn prototype art; final sprite assets and touch movement remain future work.
