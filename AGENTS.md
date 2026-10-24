@@ -1,0 +1,13 @@
+# Agent instructions
+- Read README.md and relevant docs before substantial changes.
+- Preserve established world facts and character voices.
+- Prefer focused, reversible changes over rewrites.
+- Keep game rules in TypeScript systems; scenes should call systems rather than duplicate rules.
+- Move dialogue, locations, items, NPCs, and quests into typed data as the project grows.
+- Never put API keys, personal data, or secrets in client code, saves, commits, or logs.
+- The game must remain playable without AI.
+- Never claim tests or deployment passed without an actual result.
+- Update docs and CHANGELOG.md after meaningful changes.
+- Record asset source, exact license, attribution, dimensions, and use in docs/ASSET_GUIDE.md.
+- Avoid emoji as finished art, fake controls, and decorative placeholders presented as working features.
+- Maintain semantic HTML, visible focus, keyboard support, reduced-motion support, and readable text.
